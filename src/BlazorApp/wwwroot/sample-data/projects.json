@@ -1,14 +1,13 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "iHeart ECG Patch 🎉",
+    "description": "We aim for heart monitoring device requiring minimal patient input and backed by Artificial Intelligence to assist in diagnosis and monitoring patients. It is a patch that will be placed in the chest with multiple sensors talking to each other over BLE to form a conventional EKG electrode placement.",
+    "url": "https://iotpharm.com/projects/iheartecgpatch"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
-  },
+    "title": "Pharmacy Hardware Development",
+    "description": "We are developing pharmacy hardware solutions that will help patients and providers. Some of the projects include smart pill box and retail pharmacy drug inventory indicator",
+    "url": "https://iotpharm.com/projects/smartpill-box"
   {
     "title": "My Resume Site",
     "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
